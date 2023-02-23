@@ -1,0 +1,75 @@
+#about{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    h4{
+        text-align: center;
+    }
+    section {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+.skills-container{
+    padding: 2rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.matheus-img{
+    height: 60vh;
+    border-radius: 10px;
+}
+.about-left{
+    width: 30%;
+}
+.about-right{
+    width: 70%;
+}
+.about-right > aside:first-child{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vh;
+}
+.card-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 40rem;
+    gap: 3vh;
+    padding-top: 5%;
+}
+.card{
+    width: 10vh;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .icon, p{
+        filter: contrast(0);
+    }
+    &:hover{
+        transform: scale(1.1) !important;
+        cursor: pointer;
+        .icon, p{
+            filter: contrast(1);
+        }
+    }
+    p{
+        font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+#VBA-Logo{
+    font-size: 3em;
+    height: 1em;
+    filter: grayscale(1);
+    &:hover{
+        filter: grayscale(0);
+    }
+}
+

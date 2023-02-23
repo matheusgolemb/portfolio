@@ -1,0 +1,8 @@
+@mixin dflex($direction){
+    display: flex;
+    flex-direction: $direction;
+}
+@mixin allCenter {
+    align-items: center;
+    justify-content: center;
+}

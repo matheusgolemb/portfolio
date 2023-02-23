@@ -1,0 +1,30 @@
+@import "../../variables.scss";
+@import "../../mixins.scss";
+
+#home{
+    @include dflex(row);
+    @include allCenter();
+    height: 100vh;
+}
+.iconHeader{
+    color: black;
+    &:hover{
+        transform: rotate(360deg) scale(1.3);
+        cursor: pointer;
+        color: $navGreen;
+    }
+}
+.type-wrap span{
+    color: $navGreen;
+}
+.header-bottom{
+    // border: 1px solid red;
+    @include dflex(row);
+    justify-content: flex-end;
+    gap: 5vh;
+}
+article{
+    width: 80%;
+}
+
+

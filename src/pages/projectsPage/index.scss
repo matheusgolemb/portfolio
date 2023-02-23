@@ -1,0 +1,9 @@
+@import "../../mixins.scss";
+
+.cont-projects{
+    @include dflex(column);
+    row-gap: 3vh;
+}
+#projects{
+    padding-bottom: 5rem;
+}
