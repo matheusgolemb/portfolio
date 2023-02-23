@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c34447ed.css",
+    "main.js": "/portfolio/static/js/main.7f4ab3e7.js",
+    "static/media/matheus_profile.jpeg": "/portfolio/static/media/matheus_profile.d2c4afd78762bcad3883.jpeg",
+    "static/media/senna.jpg": "/portfolio/static/media/senna.6de8eefefc77d3c93bf2.jpg",
+    "static/media/Matheus_Resume_CAN.pdf": "/portfolio/static/media/Matheus_Resume_CAN.548a437c9c54f24ddbe3.pdf",
+    "static/media/WePost_profile.jpg": "/portfolio/static/media/WePost_profile.b6f633cce4a346cbff32.jpg",
+    "static/media/Registration_Form_List.png": "/portfolio/static/media/Registration_Form_List.3274bb75325708792181.png",
+    "static/media/dec1.jpg": "/portfolio/static/media/dec1.34a5efb8ac3bdbec2004.jpg",
+    "static/media/commentsTe.png": "/portfolio/static/media/commentsTe.7419f0bb7b9818377b3f.png",
+    "static/media/VBA_Icon.svg": "/portfolio/static/media/VBA_Icon.847fe96f9c6691662ad78f765dcc0d43.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c34447ed.css.map": "/portfolio/static/css/main.c34447ed.css.map",
+    "main.7f4ab3e7.js.map": "/portfolio/static/js/main.7f4ab3e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34447ed.css",
+    "static/js/main.7f4ab3e7.js"
+  ]
+}
