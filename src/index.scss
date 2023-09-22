@@ -17,6 +17,12 @@ a{
 }
 // Mobile version
 @media (min-width: 200px) {
+    .nav-menu{
+        display: none;
+    }
+    #home{
+        // flex-direction: column;
+    }
 
 }
 
